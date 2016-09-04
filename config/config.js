@@ -33,8 +33,8 @@ var config = {
 			}
 		},
 		{
-			module: 'compliments',
-			position: 'lower_third'
+			module: 'custom_modules/welcome',
+			position: 'upper_third'
 		},
 		{
 			module: 'currentweather',
