@@ -13,12 +13,12 @@ Module.register("compliments",{
 	defaults: {
 		compliments: {
 			morning: [
-				"Good morning, handsome!",
+				"Buongiorno bella!",
 				"Enjoy your day!",
-				"How was your sleep?"
+				"Do you always wake up looking fabulous?"
 			],
 			afternoon: [
-				"Hello, beauty!",
+				"Hey there.",
 				"You look sexy!",
 				"Looking good today!"
 			],
